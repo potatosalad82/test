@@ -1,0 +1,95 @@
+ body{
+height: 100%;
+margin: 0; 
+padding:0;
+color:white;
+font-weight:bold;
+font-size:20 px;
+font-family: Arial, Helvetica, sans-serif;
+background-image: url("img/content wrapper 1.png");
+
+background-repeat: no-repeat;
+ background-size:100%;
+ background-position:0px 50px;
+  background-attachment: contain,cover;
+/*background-position: sticky;*/
+
+
+
+    
+ /* makes image scale to scr width */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+.topnav {
+overflow: hidden;
+background-color: rgba(51, 51, 51, 0.99); /* last arg = transparancy */
+
+position: -webkit-sticky; /* Safari */
+position: sticky;
+width: 100%; /* Full width */
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+.topnav a.active {
+background-color: #4CAF50;			
+color: white;
+}
+img.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+img {
+	display: block /* TEST: removes pixels below header */
+}
+#content-wrapper {
+	background-image: url("img/content wrapper 5.jpg");
+	margin-left: 20.5%;
+	margin-right: 20.5%;
+	margin-top: 10px;
+	height:500px;
+
+	/* hey alec maybe we should change the gray to a better color personally I want it to glow red like my mouse or at least the text but thats not possible i think */
+	/* glow is certainly possible EDIT: i added it  sweeet*/
+	
+	/* next line gives space between nav bar and gray box (this) */
+	
+	
+	/*do you wanna pick one of the optiions*/
+	/* margin-top: 40px; */
+	
+	box-shadow: 1px 1px 36px orange; /* glow */
+	
+	/* optional, just for fancyness */
+	padding: 0px;
+
+}
+
+#content-panel {
+	/* margin-top: 20px; */
+	padding: 0px;
+}
