@@ -1,0 +1,76 @@
+please read this fully then complete it from top down
+
+first get a game we do not have on the site from this link - DONE
+https://www.kongregate.com/games_for_your_site?sort=rating - DONE
+next use the games_template.html to create a new file for the game - DONE
+next 
+paste this code into the games.html - DONE
+<div class="column fantasy">
+					<div class="content">
+						<img id="MyImg" width =205px height=150px src="img/game_2_Learntofly2.jpg" alt="Mountains" >
+						<h3>Learn to Fly 2</h3>
+						<h4>click image for more info</h4>
+						<a href="LearntoFly2.html">
+							<img src="img/play game button.png" alt="HTML tutorial" style="width:100%;height:42px;border:0">
+						</a>
+
+						<!-- The Modal -->
+						<div id="myModal" class="modal">
+
+						<!-- Modal content -->
+							<div class="modal-content">
+								<span class="close">&times;</span>
+								<h4>Description</h4>
+									<p>
+										A bullet with wings travels much farther than one without.
+										Fly through the cave collecting 
+										the energy of its inhabitants to power your wings!
+									</p>
+								<h4>Instructions</h4>
+									<p>
+										Click to open your wings and move up. Release to close them and move down.
+										Avoid running into the ceiling or floor. Run into flowers, bugs, and jellyfish 
+										to replenish the energy in your wings or you will begin to lose lift!
+									</p>
+							</div>
+						</div>
+					</div>
+then find a pic like the one on kongretta and customize this code for the game - DONE
+
+also can you create or modify the filters and organize the games
+after that I need you to create a company paypal account - DONE
+then create a donations page - DONE
+after that can you work on getting our website online using a cheap but good server and one that is easy to make edits on the site
+after its online
+next I need your name for your company profile 
+as well as a picture for your profile
+
+after that I need you to start getting the website ready to be put online in time for the update deadline 
+
+
+
+also I finally thought of a unique idea instead of just a comments section for each game we will have a comments section for people
+to post their lets play videos creating a great lets play video data base for each game
+
+
+this is something we need to work on in the next update as well as account system and a comments section and a bunch else
+
+
+finally for right now I need you to create some funy posts for the news page so that your profile can post about their work as described
+in jim the interns post.
+also can you make any improvemnets on the rest of the website
+
+
+last five days till we are live getttt readdy we might even get some money so we need to get moving
+
+
+TODO: add donation link to top bar
+
+gmail and paypal info:
+potatoindustries1@gmail.com
+thiccp0tat0
+
+
+
+go go go
+text me if you have any questions
